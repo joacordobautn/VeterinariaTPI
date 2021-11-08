@@ -1,0 +1,12 @@
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.deps.json
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\bin\Debug\net5.0\Veterinaria Backend.pdb
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.AssemblyReference.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfoInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.AssemblyInfo.cs
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\ref\Veterinaria Backend.dll
+C:\Users\Joaquin\source\repos\VeterinariaTPI\Veterinaria Backend\obj\Debug\net5.0\Veterinaria Backend.pdb
